@@ -1,3 +1,8 @@
+"""
+Defined sample user name and password for library admin, and check for the credentials
+Student can login with default credentials
+"""
+
 class Login:
     def __init__(self):
         self.UserDetailsLibraryAdmin = {
